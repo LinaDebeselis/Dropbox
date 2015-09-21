@@ -21,6 +21,6 @@ Optionals:
 
 Below is the gif walkthrough of this app.<br> :smiley:
 
-<a href="http://imgur.com/xO5l8e9"><img src="http://imgur.com/xO5l8e9.gif" title="source: imgur.com" /></a>
+<a href="http://imgur.com/WHt4YFS"><img src="http://imgur.com/WHt4YFS.gif" title="source: imgur.com" /></a>
 <br>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
