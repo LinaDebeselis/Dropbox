@@ -16,7 +16,7 @@ Required Tasks:
   
 Optionals:
 * [x] User can view a detail view for one of the files and implement favoriting the file/ view the favorited file in the "favorite" tab screen.<br>
-* [x] Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.<br>
+* [x] User can actually type in forms and handle dismissing the keyboard.<br>
 * [x] User can swipe through the welcome screens instead of just tapping them.<br>
 
 Below is the gif walkthrough of this app.<br> :smiley:
