@@ -19,7 +19,8 @@ Optionals:
 * [x] Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard.
 * [x] User can swipe through the welcome screens instead of just tapping them.
 
-Below is the gif walkthrough of this app.
+Below is the gif walkthrough of this app.<br> :smiley:
 
 <a href="http://imgur.com/xO5l8e9"><img src="http://imgur.com/xO5l8e9.gif" title="source: imgur.com" /></a>
+<br>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
